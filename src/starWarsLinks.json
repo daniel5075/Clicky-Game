@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/d/df/Vaderz.png/revision/latest?cb=20180826203525",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/c/cc/Anakin.png/revision/latest?cb=20161016165244",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/9/90/HanSolo-1.png/revision/latest?cb=20170103232759",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/7/73/LUUUUKE.png/revision/latest?cb=20180612180900",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/3/3c/Yod.png/revision/latest?cb=20170429103859",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/e/e5/713300PA-LEATHER_8003_01.png/revision/latest?cb=20170106174833",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/5/54/Darth_Maul_render.png/revision/latest?cb=20170728104618",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/d/d1/Star_wars_battlefront_boba_fett_render_by_zero0kiryu-d9gey84.png/revision/latest?cb=20160214015932",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/8/82/Leia_Organa-Skywalker.png/revision/latest?cb=20170227150715",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/b/bd/Count_Dooku.png/revision/latest?cb=20160915200319",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d9/Luke-rotjpromo.jpg/revision/latest?cb=20091030151422",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/f/f1/Chewbacca.png/revision/latest?cb=20170427210711",
+    "clicked": false
+  }
+]

@@ -1,0 +1,22 @@
+.card {
+  border: 4px rgb(99, 99, 99) solid;
+  border-radius: 2px;
+  width: 240px;
+  height: 30%;
+  margin: 1rem;
+  position: relative;
+  box-shadow: 4px 4px 10px rgb(56, 56, 56);
+  transition: all 0.2s ease-in-out;
+  top: 190px;
+}
+
+.card > .img-container {
+  height: 100%;
+  overflow: hidden;
+  background: rgb(177, 177, 177);
+}
+
+.card > .img-container > img {
+  /* height: 100%; */
+  width: 100%;
+}

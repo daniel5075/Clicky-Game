@@ -56,22 +56,23 @@ class App extends Component {
   render() {
     console.log(this.state.SWImages);
     return (
-      <Wrapper>
+      <div>
         <Title
           score={this.state.score}
           highScore={this.state.highScore}
           message={this.state.message}
         />
-
-        {this.state.SWImages.map(SWImage => (
-          <ImagesCard
-            id={SWImage.id}
-            key={SWImage.id}
-            image={SWImage.image}
-            clickedImage={this.clickedImage}
-          />
-        ))}
-      </Wrapper>
+        <Wrapper>
+          {this.state.SWImages.map(SWImage => (
+            <ImagesCard
+              id={SWImage.id}
+              key={SWImage.id}
+              image={SWImage.image}
+              clickedImage={this.clickedImage}
+            />
+          ))}
+        </Wrapper>
+      </div>
     );
   }
 }

@@ -3,7 +3,7 @@
 ## Project Link: [Deployed on Github Pages ](https://daniel5075.github.io/Clicky-Game/)
 
 <div align="left">
-    <img src="https://github.com/daniel5075/Clicky-Game/src/img/Clickgame.PNG?raw=true" width="400px"</img> 
+    <img src="https://github.com/daniel5075/Clicky-Game/blob/master/src/img/Clickgame.PNG?raw=true" width="400px"</img> 
 </div>
 
 ## Table of Contents
